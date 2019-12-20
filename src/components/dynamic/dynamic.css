@@ -1,0 +1,17 @@
+.dynamic{
+    display: flex;
+    justify-content: center;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+}
+.dynamicspan{
+    font-size: 30px;
+    margin:10px;
+    font-weight: bold;
+}
+.staticspan{
+    margin:10px;
+    color: gray;
+}
